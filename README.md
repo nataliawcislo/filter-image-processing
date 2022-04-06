@@ -1,4 +1,4 @@
-# kernel-image-processing
+# image-processing-algorithm
 
 this repositorium possess a miscellaneous algorithm for image processing for exmaple:
 - sobel x 
