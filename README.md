@@ -11,4 +11,4 @@ this repositorium possess a miscellaneous algorithm for image processing for exm
 
 
 ## First part:
-![text](https://github.com/nataliawcislo/image-processing-algorithm/sobel x y.png)
+![text](https://github.com/nataliawcislo/image-processing-algorithm/OBR-detector.png)
