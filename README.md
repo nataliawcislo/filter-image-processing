@@ -10,5 +10,3 @@ this repositorium possess a miscellaneous algorithm for image processing for exm
 - ORB detector
 
 
-## First part:
-![text](https://github.com/nataliawcislo/image-processing-algorithm/result/ORB_detector.png)
